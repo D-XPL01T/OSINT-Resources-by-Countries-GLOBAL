@@ -151,6 +151,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [OSINT Japan GitHub Repository](https://github.com/Coordinate-Cat/OSINT-JAPAN)
 - [Phone Number Lookup Tips](https://osintteam.blog/osint-in-japan-日本-phone-numbers-b95eeb3cd1c7)
+- [Japanese company records search tool](https://github.com/sophymarine/openregistry) convenient to retrieve live and raw company records from official Japanese government registries via MCP.
 
 ## Kazakhstan
 
