@@ -77,6 +77,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Canadian OSINT](https://github.com/S3V3N11S/Canadian-OSINT-)
 
 ## China
+- [GSXT access observations and method](https://currawongweb.com/verify/is-gsxt-blocked-outside-china/) — Dated August 2026 scripted requests with controls and downloadable data; not a test of interactive browser searches or evidence about any company.
 
 > *A digital panopticon wrapped inside an administrative fortress. Between the National Enterprise Credit Information System, patent records, and provincial corporate filings, the state logs everything, even as it blocks external eyes. Penetrating this sphere requires understanding corporate hierarchies, unified social credit codes, and mainland search engine syntax. But its not that easy, the government logs everything even when it doesn't log anything.*
 >*Beware - The MSS (Ministry of State Security) are always watching*
