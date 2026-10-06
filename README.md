@@ -76,6 +76,12 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Canada](https://start.me/p/dlbyRn/canada)
 - [Canadian OSINT](https://github.com/S3V3N11S/Canadian-OSINT-)
 
+## Cayman Islands
+
+> *Seven Mile Beach conceals nothing; the structures registered a mile inland conceal everything. The General Registry sells its silence by the page, and the beneficial ownership file answers only to those who can prove a legitimate interest. But the Grand Court prints its judgments for free, and in the Financial Services Division the feeder funds, the liquidators and the names behind them all eventually take the stand. You do not search this jurisdiction from the registry inward — you search it from the courtroom out.*
+
+- [Awesome OSINT - Cayman Islands](https://github.com/sophymarine/Awesome-OSINT-Countries/blob/main/countries/cayman-islands.md) - Company search, beneficial ownership and court records
+
 ## China
 
 > *A digital panopticon wrapped inside an administrative fortress. Between the National Enterprise Credit Information System, patent records, and provincial corporate filings, the state logs everything, even as it blocks external eyes. Penetrating this sphere requires understanding corporate hierarchies, unified social credit codes, and mainland search engine syntax. But its not that easy, the government logs everything even when it doesn't log anything.*
@@ -238,6 +244,12 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [OSINT Korea GitHub Repository](https://github.com/SwanLeeSec/rokinttool)
 - [Korean OSINT Tips](https://osintstan.medium.com/top-five-korean-osint-tips-b578e2dec010)
+
+## Spain
+
+> *Madrid does not hand you a company; it hands you a gazette. Every incorporation, every appointment, every quiet resignation is published the day it is registered and never once assembled into a profile — the BORME is a river of deltas, and the board you are hunting is the sum of everything that has already floated past. Meanwhile the courts redact the people and leave the companies standing in the open.*
+
+- [Awesome OSINT - Spain](https://github.com/sophymarine/Awesome-OSINT-Countries/blob/main/countries/spain.md) - Company search, beneficial ownership and court records
 
 ## Switzerland
 
