@@ -282,6 +282,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT UK Resources](https://start.me/p/gyq0Rz/united-kingdom)
 - [UK OSINT](https://www.uk-osint.net/)
 - [OSINT-Tools-UK | Github](https://github.com/paulpogoda/OSINT-Tools-UK)
+- [H1DR4 Incident Map](https://h1dr4.dev/map) - Free map of public Police.uk incident records in England and Wales, with approximate locations and coverage that varies by force and month.
 
 ## USA
 
